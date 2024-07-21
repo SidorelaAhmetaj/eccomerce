@@ -1,0 +1,41 @@
+.wrapper{
+   
+ position: relative;
+  
+}
+.container{
+    position: absolute;
+    top: 65%;
+    left: 35%;
+    
+   
+
+}
+h2{
+   margin-left: 3em;
+}
+.btn{
+    margin-left: 1em;
+}
+#incrementBtn{
+    padding: 1em 1.5em;
+    display: inline-block;
+    background: rgb(223, 14, 115);
+    color: white;
+    border: 1px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+   
+}
+#saveBtn{
+    padding:  1em 2em;
+    margin-left: 2em;
+    margin-top: 1em;
+    display: block;
+    background: rgb(9, 9, 9);
+    color: white;
+    border: 1px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+
+}
